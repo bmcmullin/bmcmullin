@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmcmullin
-- 👀 I’m interested in climate action, energy systems decarbonisation.
+- 👀 I’m interested in climate action, end especially energy systems decarbonisation.
 - 🌱 I’m currently learning all about python packaging and versioning.
 - 💞️ I’m looking to collaborate on open energy systems modelling.
 - 📫 How to reach me: email [barry.mcmullin@dcu.ie](mailto:barry.mcmullin@dcu.ie) or on twitter [@autofac](https://twitter.com/autofac)
